@@ -1,2 +1,2 @@
 # ImageLoader
-基于UnivesalImageLoader的每次提交做出的分析项目
+基于UniversalImageLoader的每次提交做出的分析项目
